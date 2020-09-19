@@ -1,4 +1,4 @@
-# vagrant-projects
+# vagrant-projects (CentOS branch to use CentOS for OracleDB)
 
 A collection of Vagrant projects that provision Oracle and other software automatically, using Vagrant, an Oracle Linux box, and shell scripts. Unless indicated otherwise, these projects work with both Oracle VM VirtualBox and libvirt/KVM.
 
